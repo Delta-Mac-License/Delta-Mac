@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://deltaemulator.com/assets/images/hero.png" width="1080" alt="Delta Screenshot"/>  
+  <img src="https://fossbytes.com/wp-content/uploads/2024/05/Delta-emulator-macos-1-1024x569.jpg" width="1080" alt="Delta Screenshot"/>  
 </div>  
 
 <br>  
